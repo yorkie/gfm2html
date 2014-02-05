@@ -107,11 +107,11 @@ pre, code {
   font-size: 13px;
   font-family: 'UbuntuMono', monospace;
   white-space: nowrap;
-  margin: 0 2px;
+  margin: 0px 2px;
   padding: 0px 5px;
-  border: 1px solid #eaeaea;
-  background-color: #f8f8f8;
-  border-radius: 3px;
+  border: 0px;
+  background-color: #ffffff;
+  border-radius: 1px;
 }
 
 pre > code {
@@ -123,8 +123,7 @@ pre {
   white-space: pre;
   padding: 10px;
   line-height: 150%;
-  background-color: #f8f8f8;
-  border-color: #ccc;
+  background-color: #fff;
 }
 
 pre code, pre tt {
