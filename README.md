@@ -1,4 +1,5 @@
-## gfm2html
+## gfm2html with Yorkie styles
+
 
 ```sh
 $ sudo npm install gfm2html -g
